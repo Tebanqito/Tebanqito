@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Esteban Yemes</h1>
 <h3 align="center">Un apasionado desarrollador full stack web developer de Argentina</h3>
 
-- 🔭 Actualmente estoy mejorando el proyecto [PI-Countries](https://github.com/Tebanqito/PI-Countries)
+- 🔭 Actualmente estoy haceindo un [proyecto con typescript](https://github.com/Tebanqito/PI-Countries)
 
 - 🌱 Tambien actualmente estoy aprendiendo sobre **Typescript**
 
-- 💬 Preguntenme acerca de **react, redux, javascript y sequelize**
+- 💬 Preguntenme acerca de **react, redux, javascript y express**
 
 - 📫 Como llegar a mi: **yemesesteban@gmail.com**
 
