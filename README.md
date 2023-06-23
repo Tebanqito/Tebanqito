@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Esteban Yemes</h1>
 <h3 align="center">Un apasionado desarrollador full stack web developer de Argentina</h3>
 
-- 🔭 Actualmente estoy haceindo un [proyecto con typescript](https://github.com/Tebanqito/Challenge-Legendaryum))
+- 🔭 Actualmente estoy haceindo un [proyecto con typescript](https://github.com/Tebanqito/MyFakestoreapi))
 
 - 🌱 Tambien actualmente estoy aprendiendo sobre **Typescript**
 
